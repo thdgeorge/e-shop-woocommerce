@@ -1,4 +1,4 @@
-# E-Shop WooCommerce
+# E-Shop (WooCommerce)
 
 A WordPress Woocommerce E-Shop !
 
